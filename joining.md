@@ -37,6 +37,8 @@ You may have already installed Zoom for your University work. If you haven't yet
 Zoom Meeting Link:
 https://ed-ac-uk.zoom.us/j/88226821952
 
+We will send the password in a separate email.
+
 You'll be able to join the workshop from 13:45 (1.45pm) on Tuesday, 1st December. We aim to use the same link for all sessions as a "recurring meeting", and will email again if that changes.
 
 ## 5. Installing necessary software (!!!)
@@ -75,7 +77,6 @@ https://edcarp.github.io/2020-12-01-edinburgh-bio-online/
 
 Collaborative notes: 
 https://pad.carpentries.org/2020-12-01-edinburgh-bio-online
-
 
 We're looking forward to seeing you all virtually, on Tuesday for the workshop!
 
