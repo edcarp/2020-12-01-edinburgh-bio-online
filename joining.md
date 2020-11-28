@@ -16,11 +16,11 @@ We will use a mixture of biological data including genomics examples.
 The material starts with basics of data organization, moves through introductions to R and the RStudio environment and R basics. 
 The second week, we will cover aggregating and analysing data, then data visualization with ggplot2.
 The third week will be a single "Data Surgery" session, where you can bring your own data to discuss and work with, using tools taught in the course.
-Full schedule is here: https://edcarp.github.io/2020-12-01-edinburgh-bio-online/
+Full schedule is here: https://edcarp.github.io/2020-12-01-edinburgh-bio-online/.
 
 A key learning goal is that nice analysis and visualization is made possible by structuring the data nicely in the first place.
 If you're interested in the ideas behind "tidy data" and want some background reading, we recommend [Tidy Data, by Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10).
-A more extended recent paper on the same topic is [Data Organization in Spreadsheets, by [Karl W. Broman and Kara H. Woo](https://doi.org/10.1080/00031305.2017.1375989).
+A more extended recent paper on the same topic is [Data Organization in Spreadsheets, by Karl W. Broman and Kara H. Woo](https://doi.org/10.1080/00031305.2017.1375989).
 
 ## 2. Please let us know if you cannot join
 
@@ -37,19 +37,18 @@ You may have already installed Zoom for your University work. If you haven't yet
 Zoom Meeting Link:
 https://ed-ac-uk.zoom.us/j/88226821952
 
-You'll be able to join the workshop from 13:45 (1.45pm) on Tuesday 1st December. We aim to use the same link for all sessions as a "recurring meeting", and will email again if that changes.
+You'll be able to join the workshop from 13:45 (1.45pm) on Tuesday, 1st December. We aim to use the same link for all sessions as a "recurring meeting", and will email again if that changes.
 
 ## 5. Installing necessary software (!!!)
 
-You'll maybe need to install some software for the workshop. Please make sure you do this before the workshop starts. Full details and instructions are on the workshop page: 
+You may need to install some software for the workshop. Please make sure you do this before the workshop starts. Full details and instructions are on the workshop page: 
 https://edcarp.github.io/2020-12-01-edinburgh-bio-online/
 
 Here's a quick summary of the key things you'll need:
 * An up-to-date web browser.
 * For the Spreadsheets (Tuesday 1st) lesson: You will need access to a spreadsheet program such as LibreOffice, Google Sheets, or Microsoft Excel.
 * For the R (all other) lessons: We'll be using the University of Edinburgh's Noteable service, which just requires you to have a browser and uses the EASE login system. 
-* **Backup plan for the R lessons**: We strongly recommend you install R and Rstudio on your local computer, just in case the Noteable service goes down during the workshops. Also, then you will have R and RStudio installed on your local computer ready to use. There are instructions here: https://datacarpentry.org/ecology-workshop/setup-r-workshop.html
-
+* **Backup plan for the R lessons**: We strongly recommend you install R and Rstudio on your local computer, just in case the Noteable service goes down during the workshops. Also, then you will have R and RStudio installed on your local computer ready to use. There are instructions here: https://datacarpentry.org/ecology-workshop/setup-r-workshop.html.
 
 If you have any trouble, send us an email or ask during the setup session (see below). We'll also be available in the Zoom meeting from 13:45am on Tuesday, should you have any last-minute software issues.
 
@@ -59,10 +58,10 @@ You will find that having more than one screen will help you follow the course. 
 
 ## 7. Best practices using Zoom
 
-* Rename yourself with your full name (→ Click "Participants" tab, find your name and click on the rename button)
+* Rename yourself with your full name (→ Click "Participants" tab, find your name and click on the rename button).
 * Share your video, if possible (it is easier to teach when instructors can see people's faces).
 * Mute yourself when you are not speaking (mute button in the toolbar at the bottom).
-* Use Zoom nonverbal feedback indicators (→ Click "Participants" tab to raise hands or give feedback or ask for help).
+* Use Zoom nonverbal feedback indicators (→ Click "Participants" tab) to raise hands, give feedback, or ask for help.
 
 You will get more info on this during the introduction.
 
