@@ -44,6 +44,8 @@ template {
 }
 a {
   background-color: transparent;
+}
+a:link {
   color: #196EBD;
 }
 a:active,
