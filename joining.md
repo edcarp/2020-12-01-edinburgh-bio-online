@@ -52,7 +52,7 @@ Here's a quick summary of the key things you'll need:
 * For the R (all other) lessons: We'll be using the University of Edinburgh's Noteable service, which just requires you to have a browser and uses the EASE login system. 
 * **Backup plan for the R lessons**: We strongly recommend you install R and Rstudio on your local computer, just in case the Noteable service goes down during the workshops. Also, then you will have R and RStudio installed on your local computer ready to use. There are instructions here: https://datacarpentry.org/ecology-workshop/setup-r-workshop.html.
 
-If you have any trouble, send us an email or ask during the setup session (see below). We'll also be available in the Zoom meeting from 13:45am on Tuesday, should you have any last-minute software issues.
+If you have any trouble, send us an email. We'll also be available in the Zoom meeting from 13:45am on Tuesday, should you have any last-minute software issues.
 
 ## 6. Preparing your workspace for the workshop
 
