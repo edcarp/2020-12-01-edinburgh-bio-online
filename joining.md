@@ -1,8 +1,8 @@
-# EMAIL TO SEND OUT TO ATTENDEES ON SUNDAY 29th NOVEMBER
+# EMAIL SENT OUT TO ATTENDEES ON SUNDAY 29th NOVEMBER
 
 Hi,
 
-You are a registered participant on our Data Carpentry Workshop spread over the next 3 weeks (1-15 December). This email lists the key things you'll need for joining the workshop and will help you set up your computer for it. There is a lot of information here, so please read everything carefully!  
+You are a registered participant on our Data Carpentry Workshop spread over the next 3 weeks (1-15 December), first session this Tuesday (1st) afternoon. This email lists the key things you'll need for joining the workshop and will help you set up your computer for it. There is a lot of information here, so please read everything carefully!  
 
 **We have marked things requiring particular attention with (!!!) below, notably the pre-workshop survey.**
 
@@ -48,7 +48,7 @@ https://edcarp.github.io/2020-12-01-edinburgh-bio-online/
 
 Here's a quick summary of the key things you'll need:
 * An up-to-date web browser.
-* For the Spreadsheets (Tuesday 1st) lesson: You will need access to a spreadsheet program such as LibreOffice, Google Sheets, or Microsoft Excel.
+* For the Spreadsheets (Tuesday 1st) lesson: You will need access to a spreadsheet program such as LibreOffice, Google Sheets, iWork Numbers, or Microsoft Excel.
 * For the R (all other) lessons: We'll be using the University of Edinburgh's Noteable service, which just requires you to have a browser and uses the EASE login system. 
 * **Backup plan for the R lessons**: We strongly recommend you install R and Rstudio on your local computer, just in case the Noteable service goes down during the workshops. Also, then you will have R and RStudio installed on your local computer ready to use. There are instructions here: https://datacarpentry.org/ecology-workshop/setup-r-workshop.html.
 
@@ -60,7 +60,7 @@ You will find that having more than one screen will help you follow the course. 
 
 ## 7. Best practices using Zoom
 
-* Rename yourself with your full name (→ Click "Participants" tab, find your name and click on the rename button).
+* If possible, rename yourself with your full name (→ Click "Participants" tab, find your name and click on the rename button).
 * Share your video, if possible (it is easier to teach when instructors can see people's faces).
 * Mute yourself when you are not speaking (mute button in the toolbar at the bottom).
 * Use Zoom nonverbal feedback indicators (→ Click "Participants" tab) to raise hands, give feedback, or ask for help.
